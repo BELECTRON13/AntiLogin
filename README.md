@@ -10,3 +10,7 @@ This project is a Telegram bot designed to enhance the security of user accounts
 • Telegram Compatibility: This bot is easily usable on the Telegram platform and can communicate seamlessly with users.
 
 • High Security: By using this bot, users can enjoy enhanced security for their accounts.
+
+## Clone the repository
+
+```git clone https://github.com/BELECTRON13/AntiLogin.git```
