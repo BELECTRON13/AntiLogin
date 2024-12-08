@@ -13,4 +13,5 @@ This project is a Telegram bot designed to enhance the security of user accounts
 
 ## Clone the repository
 
-```git clone https://github.com/BELECTRON13/AntiLogin.git```
+```bash
+git clone https://github.com/BELECTRON13/AntiLogin.git```
