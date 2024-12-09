@@ -1,7 +1,7 @@
 from pyrogram import Client, filters
 
-api_id = 24002049
-api_hash = "21d2dc2547d0ea853ffba962d32ee59m"
+api_id = 12345678
+api_hash = "your ApiHash"
 
 app = Client("my_account", api_id=api_id, api_hash=api_hash)
 
