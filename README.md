@@ -1,4 +1,4 @@
-# Anti-Login Telegram-self
+## Anti-Login Telegram-self
 
 This project is a Telegram bot designed to enhance the security of user accounts. The bot automatically invalidates any received login codes (OTP) from users, preventing unauthorized access to accounts.
 
